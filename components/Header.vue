@@ -1,7 +1,7 @@
 <template>
   <nav      
   :class="headerClasslist "
-  class=" flex  lg:justify-around z-999999 sticky top-0 w-full lg:border-double lg:border-b-4 border-b-2 ">
+  class=" flex  lg:justify-around z-999999 sticky top-0 w-full lg:border-double lg:border-b-4 border-b-1 ">
       <div 
       class="lg:py-3  flex flex-wrap  w-full lg:flex lg:flex-row lg:items-center  justify-between ">
             <div>
