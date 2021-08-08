@@ -16,7 +16,7 @@
                             ipsum eu nunc commodo posuere et sit amet ligula.</template>
 
                 </teasers-col>    
-                <teasers-col  data-aos="zoom-in"  data-aos-delay="400" data-aos-offset="300" :rows="3" action="Action"
+                <teasers-col  data-aos="zoom-in"  data-aos-delay="400" data-aos-offset="200" :rows="3" action="Action"
                 >
                      <template #overline>GETTING STARTED</template>
                      <template #headline>Lorem ipsum dolor sit amet</template>
